@@ -1,0 +1,37 @@
+name: Intro2Agents
+dependencies:
+    - python>=3.10
+    - pip
+    - pip:
+        - chromadb
+        - langchain
+        - langchain-community 
+        - langgraph
+        - langgraph-checkpoint-sqlite 
+        - langchain-openai
+        - langchain-openai
+        - langchain-pinecone
+        - langsmith
+        - numpy
+        - pandas
+        - jsonify
+        - langchainhub
+        - onnxruntime
+        - openai
+        - pypdf 
+        - python-dotenv
+        - tiktoken 
+        - tokenizers
+        - llama-index
+        - pinecone-client 
+        - tavily-python
+        - duckduckgo-search
+        - grandalf
+        - llama-index-vector-stores-pinecone
+        - openmeteo-requests
+        - pydantic
+        - pydantic-core
+        - google-search-results
+        - langchain_chroma
+
+ 
